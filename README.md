@@ -1,6 +1,3 @@
-# responsive-website
+# My first responsive website 
 
-Responsive Kris's Car Parts website
-
-
-Copyright 2022 © Marcin Węglorz
+First responsive web project also made during course for MMCSCHOOL.PL. I used basic of html and css, also I have attached the mediaqueries I learned in the course to practice responsiveness. 
